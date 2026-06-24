@@ -8,10 +8,11 @@
 ---
 
 ## Steps
-1. Open **Outlook** and find a thread with 3+ messages (a real, non-sensitive one — or use the sample below).
-2. Open **Copilot**. If you're in Outlook, use the **/** reference to point at the thread; otherwise paste the thread text into Copilot Chat.
-3. Paste the prompt.
-4. Refine the result, then **verify** the names, dates, and owners.
+1. Make sure the **DMID Data Call — Response Status** thread is in your inbox (from pre-work) — or email yourself the sample below.
+2. Open **Copilot in Outlook**.
+3. In the Copilot prompt box, type a **forward slash `/`**, start typing the subject **DMID Data Call — Response Status**, and **select it** from the list that appears.
+4. Paste the prompt below and run it.
+5. Refine the result, then **verify** the names, dates, and owners.
 
 ## The Prompt (copy & paste)
 ```
@@ -28,17 +29,17 @@ Use a professional tone suitable for a PM status update.
 
 ## Sample Email Thread (use if you don't have one handy)
 
-*Download: [`assets/SAMPLE-Email-Thread-for-Practice.txt`](../assets/SAMPLE-Email-Thread-for-Practice.txt) — or [`assets/Email_Thread.txt`](../assets/Email_Thread.txt) for a few more short threads to practice on.*
+*Source: [`assets/Practice-Inbox-Pack.md`](../assets/Practice-Inbox-Pack.md), Thread 1 — `DMID Data Call — Response Status`. (Email it to yourself in pre-work; the other threads are there for catch-up practice.)*
 
 
-**From: Sarah Chen — Subject: Q3 Budget Review Status**
-Hi team — we need to finalize Q3 budget allocations by end of week. Infrastructure confirmed $45K for cloud migration (approved). Marketing requested $60K for campaign launch (pending legal review). HR's $20K training proposal is ready but waiting on Tyrone's sign-off. Legal review on marketing is running 2–3 more days. Proceed with other approvals in parallel, or wait? Also, we found a gap in the compliance audit scope — the scope doc needs revision, probably adds a week.
+**From: Sarah Chen — Subject: DMID Data Call — Response Status**
+Boris — status on the OMB data call for the DMID portfolio, due Friday. Fabrikam submitted their portion on time and it looks complete. Northwind is late — no response yet to my Tuesday request. Finance is still reconciling the obligated-vs-invoiced numbers. Biggest risk is Northwind: if they slip past Wednesday we miss the Friday deadline. Escalate to their PM, or hold one more day?
 
-**From: Tyrone Thompson — RE: Q3 Budget Review Status**
-Approved the HR training budget. On marketing, I've escalated to the GC directly — clarity by Thursday EOD. For the compliance audit scope, let's get a 30-min call with Legal, Finance, and Audit leads tomorrow at 10am. Sarah, can you send the invite?
+**From: Boris Vasquez — RE: DMID Data Call — Response Status**
+Escalate to Northwind's PM now and cc me — don't wait. OMB deadlines are firm, so no extension without my sign-off. When does Finance expect the reconciliation done? I need a clean number before this goes out.
 
-**From: Sarah Chen — RE: Q3 Budget Review Status**
-Invite sent for 10am tomorrow. Updated timeline: budget final approval Friday EOD (assuming legal clears marketing); compliance scope discussion tomorrow 10am; revised scope doc Friday EOD or the following Monday depending on the discussion.
+**From: Sarah Chen — RE: DMID Data Call — Response Status**
+Escalation to Northwind sent, you're cc'd. Miguel says the reconciliation is done by Thursday COB. Plan: compile Thursday evening, internal review Friday morning, submit to OMB by Friday 3:00. I'll flag right away if Northwind hasn't responded by Wednesday EOD.
 
 ## Refine it (follow-up prompts)
 - *"Make this shorter — just 3 bullets for a quick standup."*
@@ -47,7 +48,7 @@ Invite sent for 10am tomorrow. Updated timeline: budget final approval Friday EO
 - *"What risks should I flag in this update?"*
 
 ## Verify before you rely on it
-- [ ] Names and owners are correct (Sarah, Tyrone — who owns what).
+- [ ] Names and owners are correct (Sarah, Boris, Northwind, Finance — who owns what).
 - [ ] Dates and deadlines match the thread.
 - [ ] No decision was invented or dropped.
 
