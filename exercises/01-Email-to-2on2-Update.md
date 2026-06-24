@@ -28,7 +28,7 @@ Use a professional tone suitable for a PM status update.
 
 ## Sample Email Thread (use if you don't have one handy)
 
-*Download: [`assets/SAMPLE-Email-Thread-for-Practice.txt`](../assets/SAMPLE-Email-Thread-for-Practice.txt) — or try the longer [`assets/Email_Thread.txt`](../assets/Email_Thread.txt) for a tougher one.*
+*Download: [`assets/SAMPLE-Email-Thread-for-Practice.txt`](../assets/SAMPLE-Email-Thread-for-Practice.txt) — or [`assets/Email_Thread.txt`](../assets/Email_Thread.txt) for a few more short threads to practice on.*
 
 
 **From: Sarah Chen — Subject: Q3 Budget Review Status**
