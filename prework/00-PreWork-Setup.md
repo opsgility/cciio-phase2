@@ -4,6 +4,8 @@
 
 Phase 2 is hands-on. The exercises only work if Copilot can actually reach your files and your email — so the setup below gets the sample files into **your OneDrive** and the practice email thread into **your Outlook** ahead of time. Do this now and you'll start working the moment the session begins instead of spending the first 20 minutes on logistics.
 
+> **We're on a GCC tenant.** Everything in this workshop works in GCC — Copilot in Outlook, Word, Excel, PowerPoint, Teams chat, and Copilot Chat. A couple of commercial features aren't in GCC yet (live Teams *meeting* recap and web grounding); the exercises don't depend on them. If any Copilot button is missing during setup, contact your IT help desk.
+
 ---
 
 ## Step 1 — Confirm you have access
