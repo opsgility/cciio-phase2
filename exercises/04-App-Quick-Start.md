@@ -10,7 +10,7 @@
 For each app: the facilitator demos it, you do the same on your own (non-sensitive) content, then you refine with one follow-up. Each app teaches one prompt move worth keeping.
 
 ## Outlook — *audience framing*
-In **Copilot in Outlook**, type a forward slash `/`, start typing an email subject (e.g., **Q3 Budget Review Status**), and select it from the list. Then run:
+In **Copilot in Outlook**, type a forward slash `/`, start typing an email subject (e.g., **DMID Data Call — Response Status**), and select it from the list. Then run:
 ```
 Summarize this email for the top 3 main points and any action items I need to take.
 ```
