@@ -1,23 +1,33 @@
 # Exercise 0 — Interview Me (Find Your Own Use Cases)
 
-- **App:** Copilot Chat (Teams, Outlook, or the web — anywhere you see Copilot)
-- **Time:** 5–10 minutes
-- **What you'll do:** Let Copilot interview *you* about your job and hand back a personalized list of ways it can help — no file upload needed.
+- **App:** Copilot Chat (in Teams, Outlook, or the browser)
+- **Workflow:** Let Copilot interview you about your role and hand back a personalized set of use cases — no file needed
+- **Material:** none — this runs from your spoken answers (the Session 2B opener)
+- **Estimated time:** 8 minutes
+- **Difficulty:** Foundational — do this first
 
 ---
 
-## Why this one is first
+## Objective
 
-You don't have to figure out where Copilot fits — Copilot will figure it out *with* you. Answer its questions in plain language about your real work, and it returns five practical use cases and example prompts tailored to your role.
+Instead of guessing where Copilot fits, let it figure that out *with* you. Answer its questions about your real work and it returns five practical use cases and ready-to-use prompts tuned to your role — your personal starting menu for the rest of the workshop.
+
+## Before you start
+
+- [ ] You can open **Copilot** on your CMS machine (Teams, Outlook, or the browser).
+- [ ] A couple of real, **non-sensitive** examples of your work in mind (a report you write, a thread you catch up on, a meeting you document).
+
+## What Copilot is doing here
+
+Copilot runs a structured interview from your answers alone — no file upload. The first output is a draft; you refine it until it matches your real work.
+
+---
 
 ## Steps
-1. Open **Copilot** on your CMS machine.
-2. Paste the prompt below.
-3. Answer its questions one at a time, in your own words. Be specific — give real (non-sensitive) examples.
-4. When it summarizes, read it: does it match your actual work?
 
-## The Prompt (copy & paste)
-```
+### Step 1 — Start the interview
+Open Copilot and paste the prompt below. Answer its questions one at a time, in your own words — be specific and give real (non-sensitive) examples.
+```text
 You are an interviewing assistant helping me, a CMS/CCIIO team member, find where Microsoft 365 Copilot could save me time at work. Interview me one question at a time, in plain language, and don't assume I know Copilot's features.
 
 Learn about my actual work:
@@ -39,14 +49,37 @@ When you have enough, summarize:
 Start by asking what my role is and what a normal week looks like. Then dig into specifics — a report I had to write, a thread I had to catch up on, a meeting I had to document.
 ```
 
-## Refine it (follow-up prompts)
-- *"Focus more on my email and meeting tasks."*
-- *"Give me shorter, simpler example prompts."*
-- *"Add one use case for Excel and one for PowerPoint."*
-- *"Which of these would save me the most time each week?"*
+### Step 2 — Read the summary
+When Copilot summarizes, check it against reality: do the five use cases actually match what you do?
 
-## Reflect
-- Did the use cases match your real work?
-- Which one will you try first this week?
+### Step 3 — Refine it
+```text
+Focus more on my email and meeting tasks.
+```
+```text
+Give me shorter, simpler example prompts I could use today.
+```
+```text
+Which one of these would save me the most time each week?
+```
 
-> **Tip:** Save Copilot's summary. It's your personal starting menu for the rest of the workshop.
+---
+
+## Deliverable
+
+A personalized summary of your role, your five best Copilot use cases, and a ready-to-use prompt for each — saved somewhere you can find it after the session.
+
+## Verify before you rely on it
+
+- [ ] The use cases reflect your real work, not generic suggestions.
+- [ ] The example prompts are specific enough to paste and use.
+
+## Key takeaways
+
+- You don't need to know Copilot's features — the interview surfaces your best uses for you.
+- The first output is a draft; refining it is the skill.
+- Save the summary — it's your starting menu for Exercises 1–4.
+
+---
+
+*Next: Exercise 1 — Inbox Summary & Draft.*
