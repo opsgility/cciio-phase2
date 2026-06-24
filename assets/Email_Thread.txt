@@ -1,0 +1,112 @@
+SAMPLE EMAIL THREAD — FILE KIT (fictional, intentionally long and messy)
+Decisions and action items are buried in the replies. Use with Lab 1 or the App Quick-Start
+to practice "catch me up" and action-item extraction. All names/numbers are fictional.
+
+========================================================================
+[1] From: Sarah Chen (COR Lead)
+Subject: Contract Mod #14 — Vendor request on the MITG task order
+
+Team — Northwind Solutions submitted Mod #14 on the MITG task order. They're asking to add
+two analyst FTEs and extend the period of performance by 90 days. Rough cost impact ~$185K.
+I did the COR sanity check; it's in scope against the PWS. Sending to Miguel for cost analysis.
+Flagging now because the current PoP ends Sept 30 and we can't let it lapse.
+
+[2] From: Miguel Reyes (Finance)
+Subject: RE: Contract Mod #14 — Vendor request on the MITG task order
+
+Got it. $185K is over the $10K threshold and it touches the FY budget line that's already
+tight, so per our process this needs Tyrone's approval before Compliance. I'll have the cost
+analysis back by Wednesday. One concern: if we add the FTEs we're at 92% of the obligated
+ceiling — we may need a separate funding action this quarter.
+
+[3] From: Tyrone Thompson (Contracts)
+Subject: RE: Contract Mod #14 — Vendor request on the MITG task order
+
+Two things. (1) I'll approve once I see Miguel's numbers, but I want the PoP extension capped
+at 60 days, not 90 — make Northwind justify anything beyond that. (2) Sarah, please confirm
+the analysts clear the security requirements before we obligate anything. Do NOT let the
+Sept 30 PoP lapse — if we're tight, file a no-cost extension as a bridge.
+
+[4] From: Hung Van (Compliance)
+Subject: RE: Contract Mod #14 — Vendor request on the MITG task order
+
+Adding myself. Because this changes scope (added labor categories) and the timeline, it's a
+"complex" mod on my side — budget ~5 business days for my review once it reaches me. I'll also
+need to check the insurance and the labor-category mapping against the rate table. Please don't
+promise Northwind a date until I've seen it.
+
+[5] From: Sarah Chen (COR Lead)
+Subject: RE: Contract Mod #14 — Vendor request on the MITG task order
+
+Understood on all. Security check: I've asked our FSO to confirm clearances — expecting an
+answer Thursday. Tyrone, noted on the 60-day cap; I'll send Northwind a note asking them to
+justify the full 90 or accept 60. Filing the no-cost bridge extension today as a safety net so
+nothing lapses Sept 30.
+
+[6] From: Boris Vasquez (Program Lead)
+Subject: RE: Contract Mod #14 — Vendor request on the MITG task order
+
+Looping in. Leadership is asking for a one-pager on this for the Friday portfolio review.
+Sarah — can you summarize where Mod #14 stands (cost, timeline, approvals outstanding, risks)
+for that? Keep it to half a page. Also, separate but related: the DMID delivery order is up for
+recompete in Q1 and I don't want Mod #14 to set a precedent we regret.
+
+[7] From: Miguel Reyes (Finance)
+Subject: RE: Contract Mod #14 — Vendor request on the MITG task order
+
+Cost analysis attached (summary in-line): 2 analysts at the GS-12 equivalent loaded rate =
+$163K for 60 days; $185K for 90. Recommend the 60-day option — keeps us under the ceiling at
+~88% and avoids the separate funding action this quarter. If we go 90, we MUST do the funding
+action first or we'll breach the obligated amount.
+
+[8] From: Tyrone Thompson (Contracts)
+Subject: RE: Contract Mod #14 — Vendor request on the MITG task order
+
+Decision: go with the 60-day option at $163K. I'm approving the cost. Routing to Compliance now.
+Sarah — once Hung clears it, draft the mod for signature and the notice to Northwind. Hold the
+notice until clearances are confirmed.
+
+[9] From: Hung Van (Compliance)
+Subject: RE: Contract Mod #14 — Vendor request on the MITG task order
+
+Received. Starting my 5-day clock today (so by next Tuesday). Two open items I need from Sarah:
+(a) confirmation the labor categories map to the approved rate table, and (b) the FSO clearance
+confirmation. I can't close without both.
+
+[10] From: Sarah Chen (COR Lead)
+Subject: RE: Contract Mod #14 — Vendor request on the MITG task order
+
+FSO came back: one analyst is cleared, the second has an interim that should finalize within 2
+weeks. Hung — does the interim work for now, or do we need to phase the start dates? Rate-table
+mapping confirmed; I'll forward the crosswalk. The no-cost bridge extension was accepted, so
+Sept 30 is no longer a hard cliff.
+
+[11] From: Hung Van (Compliance)
+Subject: RE: Contract Mod #14 — Vendor request on the MITG task order
+
+Interim is acceptable to start, but the second analyst can't touch the controlled data set
+until the clearance finalizes. Recommend phasing: cleared analyst starts on award; second
+starts on final clearance. I'll note that condition in my approval. With that, I expect to
+clear by Monday, a day early.
+
+[12] From: Boris Vasquez (Program Lead)
+Subject: RE: Contract Mod #14 — Vendor request on the MITG task order
+
+Good. So for Friday's one-pager: 60-day extension, $163K, approved by Contracts, Compliance
+clearing Monday with a phased-start condition, bridge extension in place. Sarah, please also add
+a line on the Q1 DMID recompete risk so leadership sees we're tracking it. Thanks all — nice work
+keeping this from slipping.
+
+[13] From: Sarah Chen (COR Lead)
+Subject: RE: Contract Mod #14 — Vendor request on the MITG task order
+
+Will do. Action items on my side: (1) draft mod for signature after Hung's Monday clearance,
+(2) hold the Northwind notice until the cleared analyst's start is set, (3) one-pager to Boris by
+Thursday COB for the Friday review, (4) forward the rate-table crosswalk to Hung. Anything I missed?
+
+[14] From: Tyrone Thompson (Contracts)
+Subject: RE: Contract Mod #14 — Vendor request on the MITG task order
+
+That covers it. Add one: document the 60-vs-90 decision and rationale in the file in case it
+comes up during the Q1 recompete. Let's close this out.
+========================================================================
