@@ -1,65 +1,72 @@
 # Exercise 2 — Document → PowerPoint Deck
 
-- **App:** PowerPoint (or Copilot Chat, then paste into slides)
-- **Time:** 8–12 minutes
-- **What you'll do:** Turn a document or set of notes into a first-draft 5-slide deck.
-- **Why it matters:** Cuts deck-building time by 60–80%. You start from a draft instead of a blank slide.
+- **App:** PowerPoint (Copilot in PowerPoint)
+- **Workflow:** Turn a source document into a first-draft executive deck, then refine it
+- **Material:** **SAMPLE-Document-for-PowerPoint.docx** (in your OneDrive from pre-work) — a "DMID Recompete — Acquisition Planning Summary" memo
+- **Estimated time:** 12 minutes
+- **Difficulty:** Core
+
+---
+
+## Objective
+
+Build a 5-slide deck from a document in minutes instead of an afternoon. Copilot drafts the structure and the bullets; you refine the message and verify the facts.
+
+## Before you start
+
+- [ ] **SAMPLE-Document-for-PowerPoint.docx** is in your OneDrive (you uploaded it in pre-work).
+- [ ] PowerPoint open on a blank deck, with the **Copilot** pane available.
+
+## What Copilot is doing here
+
+Copilot drafts slides grounded in a **file you point it at**. To reference the file, type a forward slash `/` in the Copilot prompt, start typing its name, and select it. Copilot reads the document and arranges it — it does not check the facts, so you verify before sharing.
+
+> **Tenant note:** if Copilot in PowerPoint isn't enabled in your environment, run the same prompts in **Copilot Chat** and paste the result into your slides. Your facilitator will confirm what's available.
 
 ---
 
 ## Steps
-1. Open **PowerPoint** and a new blank presentation; open the **Copilot** pane (right side of the ribbon).
-2. Have a source ready — a Word doc, notes, or the sample below.
-3. Paste the prompt (Option A if you have a document; Option B for a worked example).
-4. Refine, then **verify** every number and date before sharing.
 
-> **Tenant note:** if Copilot in PowerPoint isn't enabled in your environment, paste the prompt into **Copilot Chat**, then copy the result into your slides.
-
-## The Prompt — Option A (from your own document)
-```
-Generate a 5-slide presentation from this document:
-
-[PASTE YOUR DOCUMENT TEXT HERE]
-
-Include:
-- Title slide with document title and date
-- One slide per major section
-- 3-5 bullet points per slide with key takeaways
-- A closing/next steps slide
-
-Use professional business language.
+### Step 1 — Draft the deck from the document
+In Copilot, type `/`, start typing **SAMPLE-Document-for-PowerPoint**, and select it. Then run:
+```text
+Create a clean, executive 5-slide deck from this document. Use a title slide, one slide per major section (Market Research, Requirements, Schedule, Risks & Recommendations), 3–5 bullets of key takeaways per slide, and a closing next-steps slide. Professional business language, one idea per slide.
 ```
 
-## The Prompt — Option B (worked recompete example)
-```
-Create a 5-slide deck for a DMID recompete acquisition-planning review:
-1. Title: "DMID Recompete — Acquisition Planning Summary"
-2. Market Research: six capable vendors identified via sources-sought; two small-business set-aside candidates; incumbent performing well (CPARS Satisfactory)
-3. Requirements: draft PWS ~80% complete; adds a third-party vendor assessment task; performance-based metrics under a QASP
-4. Schedule & Risks: RFP targeted Q1; risk that the draft PWS slips if the assessment task isn't finalized; bridge action needed if award slips past the current PoP
-5. Next Steps: finalize PWS by month-end; Legal review of the set-aside decision; industry day in ~3 weeks
-Use a professional tone. Include decision points and action items.
+### Step 2 — Add speaker notes
+```text
+Add brief speaker notes to each slide — the one or two points I should say out loud, including the recommendation on the final slide.
 ```
 
-## Sample Source Document (for Option A)
+### Step 3 — Make a 2-slide executive summary
+```text
+Create a 2-slide executive summary version of this deck: slide 1 the recompete status and key dates, slide 2 the risks and the recommendation.
+```
 
-*Download: [`assets/SAMPLE-Document-for-PowerPoint.docx`](../assets/SAMPLE-Document-for-PowerPoint.docx). (Text below if you'd rather paste it.)*
+### Step 4 — Anticipate the questions
+```text
+Add a "Questions to Expect" slide based on the schedule and risks — the three questions a reviewer is most likely to ask, with a one-line answer for each.
+```
 
-**DMID Recompete — Acquisition Planning Summary.** The DMID delivery order (incumbent Contoso Federal, FFP) expires 3/31/2027 and is up for recompete; acquisition planning is underway with an RFP targeted for Q1. Market Research: six capable vendors were identified through a sources-sought notice, including two small-business set-aside candidates; the incumbent is performing well (most recent CPARS rating Satisfactory). Requirements: the draft PWS is ~80% complete; it adds a third-party vendor assessment task that wasn't in the current scope, plus performance-based metrics under a QASP. Schedule: finalize the PWS by month-end; Legal review of the set-aside decision; industry day in ~3 weeks; RFP release targeted Q1. Risks: if the vendor-assessment task isn't finalized, the draft PWS slips and pushes the RFP; if award slips past the current PoP, a bridge action is needed to avoid a gap. Recommendation: lock the PWS scope this month, get Legal's set-aside determination early, and hold the industry day on schedule.
+---
 
-## Refine it (follow-up prompts)
-- *"Add speaker notes for each slide."*
-- *"Make a 2-slide executive summary version."*
-- *"Add a 'Questions to Expect' slide based on the schedule and risks."*
-- *"Change the tone to more urgent — this is escalated to leadership."*
+## Deliverable
+
+A 5-slide acquisition-planning deck with speaker notes, a 2-slide executive summary, and a "Questions to Expect" slide — all drafted from the source document.
 
 ## Verify before you rely on it
-- [ ] Dollar figures and dates match the source.
-- [ ] No slide states a decision that wasn't made.
-- [ ] Owners and next steps are accurate.
 
-## Reflect
-- How close was the draft to what you'd build manually?
-- How much time did it save?
+- [ ] Every date and figure on a slide matches the source document — Copilot didn't invent one.
+- [ ] No slide states a decision that wasn't in the document.
+- [ ] The recommendation slide says what you actually intend, not a Copilot guess.
+- [ ] Titles state a conclusion, not just a topic.
 
-*Mirror of `02-PowerPoint-from-Sources.md` in github.com/opsgility/CMD-CCIIO.*
+## Key takeaways
+
+- The `/` reference lets Copilot build from the real document — no copy-paste.
+- "One slide per section, one idea per slide" produces a usable first draft.
+- Copilot arranges content; **you verify every figure** before it leaves your hands.
+
+---
+
+*Next: Exercise 3 — Meeting Transcript → SOP.*
