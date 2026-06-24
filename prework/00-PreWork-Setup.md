@@ -1,45 +1,70 @@
 # Pre-Work — Before the Copilot for CCIIO Phase 2 Workshop
 
-**Do this in the 3–5 days before the session. It takes about 10 minutes.**
+**Do this in the 3–5 days before the session. It takes about 10–12 minutes.**
 
-Phase 2 is hands-on — every participant on the keyboard. This pre-work makes sure you can start working the moment the session begins, instead of spending the first 20 minutes on logistics.
-
----
-
-## Why this matters
-
-In Session 2A the facilitator demos Copilot app by app and you replicate it right after. In Session 2B, Copilot interviews *you* about your own role — so the more ready you are to describe your work, the better your results. None of this requires technical knowledge; you just need access and a few minutes of thought.
+Phase 2 is hands-on. The exercises only work if Copilot can actually reach your files and your email — so the setup below gets the sample files into **your OneDrive** and the practice email thread into **your Outlook** ahead of time. Do this now and you'll start working the moment the session begins instead of spending the first 20 minutes on logistics.
 
 ---
 
-## Step 1 — Watch the short slide presentation
+## Step 1 — Confirm you have access
 
-Watch the brief Phase 2 overview (or re-skim the Session 1 recap). It covers what Copilot is, where to find it in Microsoft 365, and what today's session will feel like. No technical knowledge required.
+If anything below is missing, contact your IT/Copilot help desk **before** the session.
 
-## Step 2 — Confirm you can open Copilot
+- [ ] You can sign in to Microsoft 365 (office.com) with your CMS account.
+- [ ] You have **Copilot** — the Copilot button on the ribbon in Word, Excel, and PowerPoint, and **Copilot in Outlook** on the web.
+- [ ] You can open **OneDrive** from office.com.
+- [ ] You can open files in **Word / Excel / PowerPoint for the web** and mail in **Outlook on the web** (our classroom baseline).
 
-1. Open **Microsoft 365** on your CMS machine (office.com or the desktop apps).
-2. Look for **Copilot** — in Teams/Outlook, and the Copilot icon on the ribbon in Word, Excel, and PowerPoint.
-3. Open Copilot once and type: `What can you help me do in Microsoft 365?`
-4. If Copilot is missing or greyed out, **contact your IT help desk before the session** — this is the most common day-of blocker.
+## Step 2 — Create a folder in OneDrive
 
-> If Copilot in PowerPoint isn't enabled in your environment, you can still do the deck exercise in **Copilot Chat** and paste the result into slides. Your facilitator will confirm what's available.
+1. Go to **office.com** and sign in.
+2. Open **OneDrive**.
+3. **+ Add new → Folder**.
+4. Name it: **Copilot CCIIO Session**.
 
-## Step 3 — Think about your work
+## Step 3 — Upload the sample files
 
-Come ready to describe your role out loud — Copilot will ask, and you just need to answer. Jot down:
+Upload **all** of the following into your **Copilot CCIIO Session** folder. Your facilitator will share these (or a link). Copilot in the apps can only open files that are saved in your Microsoft 365 environment.
 
-- A couple of **recurring tasks** (status updates, summarizing email, writing SOPs, prepping decks).
-- The **documents, emails, meetings, and data** you work with most.
-- A few moments where work **slows down** or feels repetitive.
+| # | File | Used in |
+|---|------|---------|
+| 1 | SAMPLE-Document-for-PowerPoint.docx | Exercise 2 (Doc → PowerPoint) |
+| 2 | SAMPLE-Meeting-Transcript.docx | Exercise 3 (Meeting → SOP) |
+| 3 | Budget_Tracker.xlsx | App Quick-Start (Excel) |
+| 4 | Status_Update.docx | App Quick-Start (summarize/rewrite) |
+| 5 | Quarterly_Deck.pptx | Optional — practice condensing slides |
+| 6 | Policy_SOP.pdf | Optional — practice Q&A / extraction |
 
-## Step 4 — (Optional) Grab the sample files
+**To upload:** open the folder → **Upload → Files** → select the files → wait for the green check on each. Turn **AutoSave** on when you open any of them — Copilot in the Office apps needs files cloud-saved with AutoSave to work.
 
-If you'd rather practice on ready-made content than your own, the [`assets`](../assets/) folder has fictional practice files — an email thread, a source document, a meeting transcript, a budget workbook, an overcrowded deck, and a process SOP. Nothing to prepare; they're there if you want them.
+## Step 4 — Build your practice inbox (for Exercise 1 and catch-up)
+
+There's nothing in your inbox for Copilot to work on unless you put it there. Open the [**Practice Inbox Pack**](../assets/Practice-Inbox-Pack.md) — it has four short threads. For each one:
+
+1. In Outlook, start a **new email to yourself** (your own address in the To line).
+2. Copy the **subject line exactly** as written (e.g., `DMID Data Call — Response Status`) — you'll reference these names with `/` inside Copilot, so the exact name matters.
+3. Paste the **first message** into the body and **send**.
+4. When it arrives, **Reply to yourself** and paste the next message; repeat until the whole thread is in your inbox.
+
+Aim to have all four threads in your inbox before the session: `DMID Data Call — Response Status`, `Contract Mod #14 — Northwind Extension`, `Compliance Audit Scope — Vendor Gap`, and `Quarterly Portfolio One-Pager`.
+
+> **Faster option:** send just the first message of each thread now, then grow them with a reply or two live during the session. Copilot gives a richer summary once a thread has 3+ messages — that's the point.
+
+## Step 5 — Quick readiness check (2 minutes)
+
+1. In OneDrive, open **Budget_Tracker.xlsx** in **Excel for the web**; confirm **AutoSave** is on and the **Copilot** button appears on the Home ribbon.
+2. In Copilot, type: `What does the data on the Contracts tab show, in plain English?` — if you get an answer, Excel is ready.
+3. In Outlook, open **Copilot**, type a forward slash `/`, start typing **DMID Data Call — Response Status**, and select it. Ask for a quick summary — if you get one back, Outlook is ready.
+4. If a Copilot button is missing or greyed out anywhere, contact your help desk before the session.
+
+## Step 6 — Think about your own work (for Session 2B)
+
+In the second half, **Copilot interviews you** about your job. Come ready to describe, out loud: a couple of **recurring tasks**, the **documents/emails/meetings/data** you handle most, and a few moments where work **slows down**. You don't prepare anything — you just answer.
 
 ---
 
-## One reminder
-Use only the **fictional sample files** or your own **non-sensitive** content. Never paste PII, procurement-sensitive, or other non-public CMS information into Copilot during practice.
+## Confidentiality reminder
+
+Use only the **fictional sample files** and practice thread in this kit. Never upload or paste real CMS email, contractor data, PII, procurement-sensitive, or other non-public information into a training exercise. Everything stays inside your CMS Microsoft 365 environment.
 
 *Questions before the session? Contact your facilitator. See you there.*
