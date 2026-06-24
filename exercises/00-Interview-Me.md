@@ -1,68 +1,52 @@
-# Pre-Work — Before the Copilot for CCIIO Phase 2 Workshop
+# Exercise 0 — Interview Me (Find Your Own Use Cases)
 
-**Do this in the 3–5 days before the session. It takes about 10–12 minutes.**
-
-Phase 2 is hands-on. The exercises only work if Copilot can actually reach your files and your email — so the setup below gets the sample files into **your OneDrive** and the practice email thread into **your Outlook** ahead of time. Do this now and you'll start working the moment the session begins instead of spending the first 20 minutes on logistics.
-
----
-
-## Step 1 — Confirm you have access
-
-If anything below is missing, contact your IT/Copilot help desk **before** the session.
-
-- [ ] You can sign in to Microsoft 365 (office.com) with your CMS account.
-- [ ] You have **Copilot** — the Copilot button on the ribbon in Word, Excel, and PowerPoint, and **Copilot / Summarize** in Outlook on the web.
-- [ ] You can open **OneDrive** from office.com.
-- [ ] You can open files in **Word / Excel / PowerPoint for the web** and mail in **Outlook on the web** (our classroom baseline).
-
-## Step 2 — Create a folder in OneDrive
-
-1. Go to **office.com** and sign in.
-2. Open **OneDrive**.
-3. **+ Add new → Folder**.
-4. Name it: **Copilot CCIIO Session**.
-
-## Step 3 — Upload the sample files
-
-Upload **all** of the following into your **Copilot CCIIO Session** folder. Your facilitator will share these (or a link). Copilot in the apps can only open files that are saved in your Microsoft 365 environment.
-
-| # | File | Used in |
-|---|------|---------|
-| 1 | SAMPLE-Document-for-PowerPoint.docx | Exercise 2 (Doc → PowerPoint) |
-| 2 | SAMPLE-Meeting-Transcript.docx | Exercise 3 (Meeting → SOP) |
-| 3 | Budget_Tracker.xlsx | App Quick-Start (Excel) |
-| 4 | Status_Update.docx | App Quick-Start (summarize/rewrite) |
-| 5 | Quarterly_Deck.pptx | Optional — practice condensing slides |
-| 6 | Policy_SOP.pdf | Optional — practice Q&A / extraction |
-
-**To upload:** open the folder → **Upload → Files** → select the files → wait for the green check on each. Turn **AutoSave** on when you open any of them — Copilot in the Office apps needs files cloud-saved with AutoSave to work.
-
-## Step 4 — Set up the practice email thread (for Exercise 1)
-
-There's no email in your inbox for Copilot to summarize unless you put one there. Build a small practice thread by emailing it to yourself:
-
-1. Open the sample file **SAMPLE-Email-Thread-for-Practice.txt** (or get it from your facilitator).
-2. In Outlook, start a **new email to yourself**. Use the subject line **exactly**: `Q3 Budget Review Status` (you'll reference it by name in Copilot).
-3. Paste the **first message** (from Sarah Chen) into the body and **send**.
-4. When it arrives, **Reply to yourself** and paste the **second message** (Tyrone); send. Reply once more with the **third message** (Sarah). Now you have a 3-message thread.
-
-> **Faster option:** send just the first message now, then grow the thread with a reply or two live during the session. Copilot gives a better summary when the thread has 3+ messages — that's the point of the exercise.
-
-## Step 5 — Quick readiness check (2 minutes)
-
-1. In OneDrive, open **Budget_Tracker.xlsx** in **Excel for the web**; confirm **AutoSave** is on and the **Copilot** button appears on the Home ribbon.
-2. In Copilot, type: `What does the data on the Contracts tab show, in plain English?` — if you get an answer, Excel is ready.
-3. In Outlook, open your **Q3 Budget Review Status** thread and click **Summarize**. If you get a summary, Outlook is ready.
-4. If a Copilot button is missing or greyed out anywhere, contact your help desk before the session.
-
-## Step 6 — Think about your own work (for Session 2B)
-
-In the second half, **Copilot interviews you** about your job. Come ready to describe, out loud: a couple of **recurring tasks**, the **documents/emails/meetings/data** you handle most, and a few moments where work **slows down**. You don't prepare anything — you just answer.
+- **App:** Copilot Chat (Teams, Outlook, or the web — anywhere you see Copilot)
+- **Time:** 5–10 minutes
+- **What you'll do:** Let Copilot interview *you* about your job and hand back a personalized list of ways it can help — no file upload needed.
 
 ---
 
-## Confidentiality reminder
+## Why this one is first
 
-Use only the **fictional sample files** and practice thread in this kit. Never upload or paste real CMS email, contractor data, PII, procurement-sensitive, or other non-public information into a training exercise. Everything stays inside your CMS Microsoft 365 environment.
+You don't have to figure out where Copilot fits — Copilot will figure it out *with* you. Answer its questions in plain language about your real work, and it returns five practical use cases and example prompts tailored to your role.
 
-*Questions before the session? Contact your facilitator. See you there.*
+## Steps
+1. Open **Copilot** on your CMS machine.
+2. Paste the prompt below.
+3. Answer its questions one at a time, in your own words. Be specific — give real (non-sensitive) examples.
+4. When it summarizes, read it: does it match your actual work?
+
+## The Prompt (copy & paste)
+```
+You are an interviewing assistant helping me, a CMS/CCIIO team member, find where Microsoft 365 Copilot could save me time at work. Interview me one question at a time, in plain language, and don't assume I know Copilot's features.
+
+Learn about my actual work:
+- my role and who I work with (program staff, CORs, leadership, contractors, other agencies)
+- the documents I deal with most — emails, status reports, SOPs, meeting notes, spreadsheets, briefings, policy or contract documents
+- the recurring reports I produce and the deadlines or data calls I respond to
+- the reading and summarizing I do — long email threads, meeting transcripts, guidance documents
+- where my work slows down, gets repetitive, or is easy to get wrong
+
+Ask a follow-up whenever my answer is vague, and help me think of a concrete, recent example.
+
+When you have enough, summarize:
+- my role and main responsibilities
+- my recurring tasks and the documents I rely on
+- the 5 tasks where Copilot would save me the most time
+- a ready-to-use example prompt for each, and which app it belongs in (Outlook, Word, Teams, Excel, or PowerPoint)
+- one thing I should always verify before trusting Copilot's output
+
+Start by asking what my role is and what a normal week looks like. Then dig into specifics — a report I had to write, a thread I had to catch up on, a meeting I had to document.
+```
+
+## Refine it (follow-up prompts)
+- *"Focus more on my email and meeting tasks."*
+- *"Give me shorter, simpler example prompts."*
+- *"Add one use case for Excel and one for PowerPoint."*
+- *"Which of these would save me the most time each week?"*
+
+## Reflect
+- Did the use cases match your real work?
+- Which one will you try first this week?
+
+> **Tip:** Save Copilot's summary. It's your personal starting menu for the rest of the workshop.
