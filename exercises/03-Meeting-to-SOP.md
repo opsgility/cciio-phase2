@@ -27,6 +27,7 @@ Copilot drafts from a **file you point it at** — no pasting. To reference the 
 
 ### Step 1 — Draft the SOP from the transcript
 In Copilot, type `/`, start typing **SAMPLE-Meeting-Transcript**, and select it. Then run:
+> Note: If the document shows as unaccessible just drag & drop the file into the Prompt box
 ```text
 Convert this meeting transcript into a step-by-step SOP for the contract-modifications review process. Format it as: Title; Purpose (1–2 sentences); Prerequisites / Roles; Steps (numbered, action-oriented); Decision points (if/then); Common issues & workarounds; Who to contact. Clear language; assume the reader is new to the process.
 ```
